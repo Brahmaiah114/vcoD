@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vcoD/static/css/main.842f8733.css",
+    "main.js": "/vcoD/static/js/main.708b9e72.js",
+    "static/js/453.d855a71b.chunk.js": "/vcoD/static/js/453.d855a71b.chunk.js",
+    "index.html": "/vcoD/index.html",
+    "main.842f8733.css.map": "/vcoD/static/css/main.842f8733.css.map",
+    "main.708b9e72.js.map": "/vcoD/static/js/main.708b9e72.js.map",
+    "453.d855a71b.chunk.js.map": "/vcoD/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.842f8733.css",
+    "static/js/main.708b9e72.js"
+  ]
+}
